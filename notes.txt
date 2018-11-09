@@ -1,0 +1,2 @@
+database name - trainDB
+table name - train100rows

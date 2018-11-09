@@ -1,0 +1,14 @@
+/Users/Anirudh/nani/bin/Debug/netcoreapp2.1/nani.deps.json
+/Users/Anirudh/nani/bin/Debug/netcoreapp2.1/nani.runtimeconfig.json
+/Users/Anirudh/nani/bin/Debug/netcoreapp2.1/nani.runtimeconfig.dev.json
+/Users/Anirudh/nani/bin/Debug/netcoreapp2.1/nani.dll
+/Users/Anirudh/nani/bin/Debug/netcoreapp2.1/nani.pdb
+/Users/Anirudh/nani/obj/Debug/netcoreapp2.1/nani.csprojAssemblyReference.cache
+/Users/Anirudh/nani/obj/Debug/netcoreapp2.1/nani.csproj.CoreCompileInputs.cache
+/Users/Anirudh/nani/obj/Debug/netcoreapp2.1/nani.RazorAssemblyInfo.cache
+/Users/Anirudh/nani/obj/Debug/netcoreapp2.1/nani.RazorAssemblyInfo.cs
+/Users/Anirudh/nani/obj/Debug/netcoreapp2.1/nani.AssemblyInfoInputs.cache
+/Users/Anirudh/nani/obj/Debug/netcoreapp2.1/nani.AssemblyInfo.cs
+/Users/Anirudh/nani/obj/Debug/netcoreapp2.1/nani.RazorTargetAssemblyInfo.cache
+/Users/Anirudh/nani/obj/Debug/netcoreapp2.1/nani.dll
+/Users/Anirudh/nani/obj/Debug/netcoreapp2.1/nani.pdb
