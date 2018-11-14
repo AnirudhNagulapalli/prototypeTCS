@@ -21,7 +21,7 @@ namespace nani.Models
         {
             modelBuilder.Entity<Train100rows>(entity =>
             {
-                entity.ToTable("train100rows", "trainDB");
+                entity.ToTable("train100rows", "traindb");
 
                 entity.Property(e => e.Id)
                     .HasColumnName("id")

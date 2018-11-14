@@ -1,0 +1,43 @@
+
+<div class="row"> 
+  <div class="col-md-offset-10 col-md-2">
+    <a href="#">Create Employee</a>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <div class="table-responsive">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Employee id</th>
+            <th>Pickup DateTime</th>
+            <th>Dropoff DateTime</th>
+            <th>Employee Count</th>
+            <th>Pickup Longitude</th>
+            <th>Pickup Latitude</th>
+            <th>Dropoff Longitude</th>
+            <th>Dropoff Latitude</th>
+            <th>Trip Duration</th>
+            <!-- <th>Update</th>
+            <th>Delete</th> -->
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let employee of employees">
+            <td>{{employee.id}}</td>
+            <td>{{employee.pickupDatetime}}</td>
+            <td>{{employee.dropoffDatetime}}</td>
+            <td>{{employee.passengerCount}}</td>
+            <td>{{employee.pickupLongitude}}</td>
+            <td>{{employee.pickupLatitude}}</td>
+            <td>{{employee.dropoffLongitude}}</td>
+            <td>{{employee.dropoffLatitude}}</td>
+            <td>{{employee.tripDuration}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

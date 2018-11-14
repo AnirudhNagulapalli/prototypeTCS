@@ -35,6 +35,19 @@ namespace nani
                 options.UseMySQL(Configuration.GetConnectionString("DefaultConnection"))
             );
 
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials());
+            });
+            services.Configure<IISOptions>(options => 
+            {
+        
+            }); 
+
            
         }
 
@@ -45,13 +58,18 @@ namespace nani
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            
+
             else
             {
                 app.UseHsts();
             }
-
+            app.UseCors("CorsPolicy");
             app.UseHttpsRedirection();
             app.UseMvc();
+            
+            
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\bin\MCD\Debug\netcoreapp2.1\nani.deps.json
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\bin\MCD\Debug\netcoreapp2.1\nani.runtimeconfig.json
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\bin\MCD\Debug\netcoreapp2.1\nani.runtimeconfig.dev.json
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\bin\MCD\Debug\netcoreapp2.1\nani.dll
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\bin\MCD\Debug\netcoreapp2.1\nani.pdb
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\obj\MCD\Debug\netcoreapp2.1\nani.csprojAssemblyReference.cache
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\obj\MCD\Debug\netcoreapp2.1\nani.csproj.CoreCompileInputs.cache
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\obj\MCD\Debug\netcoreapp2.1\nani.RazorAssemblyInfo.cache
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\obj\MCD\Debug\netcoreapp2.1\nani.RazorAssemblyInfo.cs
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\obj\MCD\Debug\netcoreapp2.1\nani.AssemblyInfoInputs.cache
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\obj\MCD\Debug\netcoreapp2.1\nani.AssemblyInfo.cs
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\obj\MCD\Debug\netcoreapp2.1\nani.RazorTargetAssemblyInfo.cache
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\obj\MCD\Debug\netcoreapp2.1\nani.dll
+C:\Users\kavyareddy\Desktop\tcs\EmployeePrototype\prototypeTCS\nani\obj\MCD\Debug\netcoreapp2.1\nani.pdb
